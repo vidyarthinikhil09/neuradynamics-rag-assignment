@@ -7,11 +7,9 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # 1. Setup - Load DB and Model
-# Must match the embedding model used in ingest.py
 embedding_function = GoogleGenerativeAIEmbeddings(model="models/gemini-embedding-001")
 vector_store = Chroma(persist_directory="./chroma_db", embedding_function=embedding_function)
 
-# Using Gemini 1.5 Flash for speed and efficiency
 llm = ChatGoogleGenerativeAI(
     model="gemini-2.5-flash-lite", 
     temperature=0
