@@ -1,0 +1,6 @@
+Category,Question,Expected,Actual_Answer,Source_Used
+Answerable,What is the policy on web scraping?,Prohibited / Not allowed,"*   Engaging in web scraping, data scraping, or any other form of data collection that violates these Terms is not permitted.",['./data/policy.txt']
+Answerable,How long is support chat data retained?,90 days,"*   Support conversations, such as emails and chat logs, are deleted 90 days after your account is closed.",['./data/policy.txt']
+Edge Case,Can I use the AI to generate political content?,Harmful/Unethical content is prohibited,I cannot answer this based on the provided policy documents.,['./data/policy.txt']
+Unanswerable,What is the phone number for the HR department?,I cannot answer / Not in document,I cannot answer this based on the provided policy documents.,['./data/policy.txt']
+Unanswerable,Does the company offer a refund for the annual plan?,I cannot answer (Refunds not explicitly detailed for annual vs monthly),I cannot answer this based on the provided policy documents.,['./data/policy.txt']

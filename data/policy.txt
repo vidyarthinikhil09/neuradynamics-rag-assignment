@@ -1,0 +1,86 @@
+Terms & Conditions
+Last Updated: February 28, 2025
+Terms of Service
+These Terms of Service ("Terms") govern your access to and use of Pragya, its associated services, and software (collectively referred to as the "Services"). By accessing or using the Services, you agree to these Terms. If you are using the Services on behalf of an organization, you affirm that you possess the authority to bind that organization to these Terms, in which case "you" and "your" shall refer to the organization. Both Pragya and you shall be referred to as a "Party" to these Terms.
+Pragya reserves the right to modify these Terms at any time. Updates will be posted on the platform, and your continued use of the Services following such modifications constitutes your acceptance of the revised Terms.
+1. Use of Neuradynamics – User Commitments
+To ensure proper functioning of the Services, and in exchange for access to such services, you agree to the following commitments when accessing and using our platform:
+Eligibility
+You must be a natural person. The use of the platform by automated systems or bots, unless authorized by Neuradynamics, is prohibited.
+You agree to these Terms and the Privacy Policy either as an individual or on behalf of your organization.
+Account Security
+If you share your login credentials or access codes with a third party, you will be fully responsible for any actions taken by that third party on your behalf.
+Pragya disclaims any liability for such actions, which will be deemed as actions taken by you.
+User Contributions
+Should you provide questions, comments, suggestions, enhancements, ideas, or other feedback regarding the platform, you grant Pragya the right to use and disclose such feedback without restriction and without compensation.
+2. Acceptable Use
+When using Neuradynamics’s Services, you agree not to:
+Provide system passwords or other login information to any unauthorized third party.
+Share nonpublic system features or content with any third party.
+Access the system for the purpose of developing a competitive product or service or to create a product utilizing similar ideas, features, functions, or graphics of the system.
+Engage in web scraping, data scraping, or any other form of data collection that violates these Terms.
+Use Pragya’s AI-driven tools or language models (LLMs) for generating or disseminating harmful, illegal, or unethical content.
+3. Links to Third-Party Services
+Our Services may contain links to third-party websites or services that are not owned or controlled by Pragya. Pragya has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third-party websites or services.
+4. Subscriptions and Payments
+Certain components of the Service are billed on a subscription basis ("Subscription(s)"). Billing Cycles are established on either a monthly or annual basis, depending on the type of subscription plan you select at the time of purchase.
+5. Data Ownership and Privacy
+"Your Data" refers to any data and content stored or transmitted via the Services by or on behalf of you or your end users, which may include data imported from third-party services. You retain full ownership of Your Data.
+6. Intellectual Property
+Pragya retains ownership of all intellectual property rights associated with the Services, including trademarks, software, designs, and documentation.
+7. Limitation of Liability
+To the fullest extent permitted by law, Pragya shall not be liable for any indirect, incidental, or consequential damages arising from your use of the Services.
+8. Modifications and Termination
+Pragya reserves the right to modify, suspend, or discontinue any part of the Services at its sole discretion.
+9. Governing Law
+These Terms shall be governed by and construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict of law principles.
+10. Contact Information
+For questions, concerns, or feedback regarding these Terms, please contact Pragya at [support email/contact details].
+
+Privacy Policies
+Last Updated: February 28, 2025
+Privacy Policy
+Pragya is committed to protecting the privacy, confidentiality, and security of your personal information. Your privacy is a top priority, and we strive to safeguard your information from unauthorized access. This Privacy Policy outlines how we collect, use, and disclose your personal information in relation to our services. By using our platform, you agree to the terms described in this Privacy Policy.
+Pragya reserves the right to modify these Terms at any time. Updates will be posted on the platform, and your continued use of the Services following such modifications constitutes your acceptance of the revised Terms.
+1. Information
+a) When You Use Our Website
+Usage Data: We collect information about how you interact with our website, such as pages visited, time spent on pages, and navigation paths.
+Account Information: When you create an account, we collect your name, email address, and company affiliation to personalize your experience.
+Payment Information: For paid subscriptions, payment details are processed securely through third-party providers and are not stored on our servers.
+b) When You Subscribe to Newsletters
+Contact Details: If you sign up for newsletters, we collect your name and email address to send relevant updates.
+c) When You Use Our Services
+Server Logs: We track usage activity, including IP address, browser type, and geo-location, to improve service performance.
+AI Interactions: Data input during interactions with our AI tools, including queries and documents, may be temporarily stored to enhance the performance and accuracy of our models.
+d) When You Contact Support
+Support Conversations: We retain communication records, such as emails and chat logs, to address your inquiries effectively. These are deleted 90 days after your account is closed.
+2. How We Use Your Information
+We collect and use your personal data to provide a secure, efficient, and personalized experience, including:
+Service Delivery: To enable access to our AI-driven tools.
+Customer Support: To resolve issues and ensure optimal use of our platform.
+Security: To detect and prevent unauthorized use.
+Improvements: To refine our AI models based on anonymized data.
+Marketing: To inform you of new features, updates, and services.
+3. Data Retention
+Pragya retains personal information for as long as necessary to provide the services you’ve requested and in accordance with applicable laws. Once your account is deleted, most associated data is removed within 90 days unless required for legal purposes.
+4. Third-Party Services
+We use reputable third-party services to enhance our platform’s functionality, including:
+Payment Processing: Razorpay.
+Marketing and Analytics: Google Analytics and similar platforms.
+Cloud Storage: Azure Services for secure data hosting.
+5. Your Rights
+You have the following rights concerning your personal information:
+Access and Portability: Request access and a copy of your personal data.
+Correction: Correct inaccuracies in your data.
+Deletion: Request the deletion of your data.
+Restriction and Objection: Request limitations or object to certain uses.
+6. Cookies and Tracking Technologies
+Pragya uses cookies to enhance user experience. You can manage your cookie preferences through browser settings, though disabling them may limit functionality.
+7. Security Measures
+We employ industry-standard security measures such as encryption, access controls, and monitoring to protect your data.
+8. Children’s Privacy
+Pragya’s services are not intended for individuals under 13 years of age. We do not knowingly collect personal information from children.
+9. Changes to This Privacy Policy
+Pragya may update this Privacy Policy periodically. Continued use of the services constitutes acceptance of the updated Privacy Policy.
+10. Contact Information
+For questions, concerns, or to exercise your rights, contact us at [support email/contact details].
