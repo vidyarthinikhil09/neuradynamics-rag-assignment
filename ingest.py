@@ -6,10 +6,9 @@ from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from langchain_chroma import Chroma
 from dotenv import load_dotenv
 
-# Load environment variables (API Key)
 load_dotenv()
 
-# 0. Cleanup old DB (Critical step when switching models)
+# 0. Cleanup old DB 
 if os.path.exists("./chroma_db"):
     shutil.rmtree("./chroma_db")
 
@@ -17,10 +16,10 @@ if os.path.exists("./chroma_db"):
 loader = TextLoader("./data/policy.txt", encoding="utf-8")
 documents = loader.load()
 
-# 2. Split the text (Chunking Strategy)
-# WHY THIS CHUNK SIZE? [Assignment Requirement]
+# 2. Split the text 
+# WHY THIS CHUNK SIZE?
 # We use a chunk size of 1000 characters with a 200 character overlap.
-# - Size (1000): Large enough to capture a full policy clause (context), but small enough
+# - Size (1000): Large enough to capture a full policy(context), but small enough
 #   to fit multiple retrieved chunks into the LLM's context window.
 # - Overlap (200): Prevents cutting a sentence in half at the boundary, ensuring 
 #   critical meaning isn't lost between chunks.
@@ -34,7 +33,6 @@ chunks = text_splitter.split_documents(documents)
 print(f"Split {len(documents)} document(s) into {len(chunks)} chunks.")
 
 # 3. Create Vector Store (ChromaDB)
-# This will create a folder named 'chroma_db' in your project directory
 vector_store = Chroma.from_documents(
     documents=chunks,
     embedding=GoogleGenerativeAIEmbeddings(model="models/gemini-embedding-001"),
